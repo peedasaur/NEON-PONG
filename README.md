@@ -15,7 +15,7 @@ A modern take on the classic Pong game, featuring sleek neon visuals and **post-
 
 ## 🖼️ Screenshot
 
-![Gameplay Screenshot](screenshots/neon-pong.png)
+![Gameplay Screenshot](screenshots/ss.png)
 
 ---
 
